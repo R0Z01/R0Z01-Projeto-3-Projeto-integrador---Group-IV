@@ -1,0 +1,9 @@
+ .gitignore                | 12 [32m+++++++++++[m[31m-[m
+ app.py                    |  0
+ data/bronze/.gitkeep      |  0
+ data/gold/.gitkeep        |  0
+ data/silver/.gitkeep      |  0
+ notebooks/01_bronze.ipynb |  0
+ notebooks/02_silver.ipynb |  0
+ notebooks/03_gold.ipynb   |  0
+ 8 files changed, 11 insertions(+), 1 deletion(-)
