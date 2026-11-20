@@ -1,0 +1,49 @@
+{
+  "schema_versao": 2,
+  "ano": 2025,
+  "arquivo": "INFLUD25-16-11-2026.csv",
+  "total_registros": 336435,
+  "total_colunas": 194,
+  "linhas_estrutura_invalida": 0,
+  "codificacao_utilizada": "latin-1",
+  "criterio_codificacao": "Sem BOM; codificação presumida, não detectada automaticamente",
+  "data_analise_utc": "2026-11-20T21:57:20.755472+00:00",
+  "campos_analisados": {
+    "NU_NOTIFIC": {
+      "valores_vazios": 0,
+      "percentual_vazio": 0.0
+    },
+    "DT_NOTIFIC": {
+      "valores_vazios": 0,
+      "percentual_vazio": 0.0
+    },
+    "DT_SIN_PRI": {
+      "valores_vazios": 0,
+      "percentual_vazio": 0.0
+    },
+    "CS_SEXO": {
+      "valores_vazios": 0,
+      "percentual_vazio": 0.0
+    },
+    "SG_UF_NOT": {
+      "valores_vazios": 11,
+      "percentual_vazio": 0.0033
+    },
+    "CLASSI_FIN": {
+      "valores_vazios": 8676,
+      "percentual_vazio": 2.5788
+    },
+    "EVOLUCAO": {
+      "valores_vazios": 15212,
+      "percentual_vazio": 4.5215
+    },
+    "HOSPITAL": {
+      "valores_vazios": 6734,
+      "percentual_vazio": 2.0016
+    },
+    "UTI": {
+      "valores_vazios": 31964,
+      "percentual_vazio": 9.5008
+    }
+  }
+}

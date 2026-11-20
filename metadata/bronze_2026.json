@@ -1,0 +1,13 @@
+{
+  "schema_versao": 2,
+  "ano": 2026,
+  "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SRAG/2026/INFLUD26-16-11-2026.csv",
+  "arquivo": "INFLUD26-16-11-2026.csv",
+  "tamanho_bytes": 279335740,
+  "sha256": "b51a10cd50151844551e628d4389c7b148fa5f4d55fa211072c6554a24b673fb",
+  "etag": "\"180c1d45fd1585f3a23d1a40f201e573-34\"",
+  "ultima_modificacao": "Mon, 16 Nov 2026 03:53:43 GMT",
+  "coletado_em_utc": "2026-11-20T21:43:24.359152+00:00",
+  "verificado_em_utc": "2026-11-20T21:43:24.359184+00:00",
+  "origem": "download novo; tamanho confirmado pelo HEAD/GET"
+}

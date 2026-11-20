@@ -1,0 +1,13 @@
+{
+  "schema_versao": 2,
+  "ano": 2023,
+  "url": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SRAG/2023/INFLUD23-23-03-2026.csv",
+  "arquivo": "INFLUD23-23-03-2026.csv",
+  "tamanho_bytes": 316216304,
+  "sha256": "639b748fb2838336bbaf0882608159790274734b21abdb02b303ee6076bb5e4a",
+  "etag": "\"aeed363605fcef81792446b6e4b8e4f3-38\"",
+  "ultima_modificacao": "Wed, 25 Mar 2026 21:28:58 GMT",
+  "coletado_em_utc": "2026-11-20T21:41:39.754475+00:00",
+  "verificado_em_utc": "2026-11-20T21:41:39.754496+00:00",
+  "origem": "download novo; tamanho confirmado pelo HEAD/GET"
+}

@@ -1,0 +1,11 @@
+{
+    "ano": 2019,
+    "fonte": "https://s3.sa-east-1.amazonaws.com/ckan.saude.gov.br/SRAG/2019/INFLUD19-23-03-2026.csv",
+    "arquivo": "INFLUD19-23-03-2026.csv",
+    "tamanho_bytes": 51658150,
+    "sha256": "f6de547c1234e2de4d65f830606849a006346e50b32106bd635714665100134a",
+    "total_registros": 48941,
+    "total_colunas": 194,
+    "linhas_invalidas": 0,
+    "data_verificacao": "2026-11-20T19:32:10.112381+00:00"
+}
