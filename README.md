@@ -18,8 +18,7 @@ Este repositório será utilizado para armazenar a documentção e o código do 
   
 ## Pipeline SRAG Medallion
 
-Pipeline de dados baseado na arquitetura Medallion (Bronze, Silver e Gold) utilizando os registos públicos de Síndrome Respiratória Aguda Grave (SRAG) do Ministério da Saúde (2019 a 2026)[cite: 1, 2, 3].
-
+Pipeline de dados baseado na arquitetura Medallion (Bronze, Silver e Gold) utilizando os registos públicos de Síndrome Respiratória Aguda Grave (SRAG) do Ministério da Saúde (2019 a 2026).
 ---
 
 Camada Bronze — Coleta e Ingestão de Dados Brutos
